@@ -1,0 +1,7 @@
+### 1. 이름 찾기
+POST http://localhost:8080/api/v1/members
+Content-Type: application/json
+
+{
+  "name": ""
+}
