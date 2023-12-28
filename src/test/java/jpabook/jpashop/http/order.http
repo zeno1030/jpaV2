@@ -1,0 +1,7 @@
+### 1. 주문 조회
+GET http://localhost:8080/api/v4/simple-orders
+Content-Type: application/json
+
+### 1. 주문 조회
+GET http://localhost:8080/api/v2/orders
+Content-Type: application/json
