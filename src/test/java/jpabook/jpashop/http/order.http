@@ -3,5 +3,5 @@ GET http://localhost:8080/api/v4/simple-orders
 Content-Type: application/json
 
 ### 1. 주문 조회
-GET http://localhost:8080/api/v3.1/orders?offset=0&limit=100
+GET http://localhost:8080/api/v6/orders
 Content-Type: application/json
